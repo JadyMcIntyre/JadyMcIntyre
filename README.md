@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JadyMcIntyre
 - 👀 I’m interested in Software Developing and Machine Learning
-- 🌱 I’m currently learning CS50 and Bash/Linux
+- 🌱 I’m currently learning Angular and .Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
