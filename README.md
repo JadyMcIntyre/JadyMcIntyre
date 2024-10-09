@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Jady McIntyre</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
 
-- 🔭 I’m currently working on [GodSufficient](https://github.com/JadyMcIntyre/god_sufficient)
+- 🔭 I’m currently working on [GodSufficient](https://github.com/JadyMcIntyre/god_sufficient) which uses [Godfidence](https://github.com/JadyMcIntyre/godfidence) for the API
 
 - 👯 I’m looking to collaborate on **cool projects.**
 
